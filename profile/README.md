@@ -2,19 +2,14 @@
 
 We are a DeFi chain built using Tendermint BFT consensus and the Cosmos SDK. 
 
-## Repos
-
-- [nibiru](https://github.com/NibiruChain/nibiru): code for the Nibiru blockchain, Nibi-Perps, Nibi-Swap, and NUSD
-
-- [oracle](https://github.com/NibiruChain/oracle): An oracle bot written in Python
-
-- [liquidation](https://github.com/NibiruChain/liquidation): A liquidation engine written in Python
-
-- [nibiru-py](https://github.com/NibiruChain/nibiru-py): A client SDK implemented in Python
-
-- [sdk-ts](https://github.com/NibiruChain/sdk-ts): A client SDK implemented in TypeScript
-
-- [docs](https://github.com/NibiruChain/docs): GitBook documentation
+| Repo | Description |
+| --- | --- |
+| [nibiru](https://github.com/NibiruChain/nibiru) | code for the Nibiru blockchain, Nibi-Perps, Nibi-Swap, and NUSD |
+| [oracle](https://github.com/NibiruChain/oracle) | An oracle bot written in Python |
+| [liquidation](https://github.com/NibiruChain/liquidation) | A liquidation engine written in Python |
+| [nibiru-py](https://github.com/NibiruChain/nibiru-py) | A client SDK implemented in Python |
+| [sdk-ts](https://github.com/NibiruChain/sdk-ts) | A client SDK implemented in TypeScript |
+| [docs](https://github.com/NibiruChain/docs) | GitBook documentation |
 
 <!--
 
