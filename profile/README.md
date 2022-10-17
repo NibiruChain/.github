@@ -13,7 +13,7 @@ The official repositories for [Nibiru][site-nibiru].
 | [py-sdk][repo-py-sdk] | A client SDK implemented in Python |
 | [sdk-proto-gen][repo-sdk-proto-gen] | Generates the `nibiru_proto` Python package for the [Nibiru Python SDK][repo-py-sdk] |
 | [faucet][repo-faucet] | A faucet for Cosmos-SDK apps that uses the app binary only. |
-| [docs][repo-docs] | Source code for the documentation site: [docs.nibiru.fi](https://docs.nibiru.fi) |
+| [docs-nibiru][repo-docs] | Source code for the documentation site: [docs.nibiru.fi](https://docs.nibiru.fi) |
 
 ---
 
@@ -34,6 +34,6 @@ The official repositories for [Nibiru][site-nibiru].
 [repo-nibiru]: https://github.com/NibiruChain/nibiru
 [repo-py-sdk]: https://github.com/NibiruChain/py-sdk
 [repo-ts-sdk]: https://github.com/NibiruChain/ts-sdk
-[repo-docs]: https://github.com/NibiruChain/docs
+[repo-docs]: https://github.com/NibiruChain/docs-nibiru
 [repo-sdk-proto-gen]: https://github.com/NibiruChain/sdk-proto-gen
 [repo-faucet]: https://github.com/NibiruChain/faucet
