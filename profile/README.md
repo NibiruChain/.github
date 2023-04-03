@@ -2,7 +2,7 @@
 
 <div align="center">
 
-The official repositories for [Nibiru][site-nibiru].
+Official open-source repositories for [Nibiru][site-nibiru].
 
 </div>
 
@@ -14,10 +14,11 @@ The official repositories for [Nibiru][site-nibiru].
 | [sdk-proto-gen][repo-sdk-proto-gen] | Generates the `nibiru_proto` Python package for the [Nibiru Python SDK][repo-py-sdk] |
 | [faucet][repo-faucet] | A faucet for Cosmos-SDK apps that uses the app binary only. |
 | [docs-nibiru][repo-docs] | Source code for the documentation site: [docs.nibiru.fi](https://docs.nibiru.fi) |
+| [cw-nibiru][repo-cw-nibiru] | Smart contract prototyping sandbox |
 
 ---
 
-<a href="https://discord.gg/sgPw8ZYfpQ">
+<a href="https://discord.gg/nibiru">
   <img align="left" alt="Nibiru Discord" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/discord.svg" />
 </a>
 <a href="https://twitter.com/NibiruChain">
@@ -37,3 +38,4 @@ The official repositories for [Nibiru][site-nibiru].
 [repo-docs]: https://github.com/NibiruChain/docs-nibiru
 [repo-sdk-proto-gen]: https://github.com/NibiruChain/sdk-proto-gen
 [repo-faucet]: https://github.com/NibiruChain/faucet
+[repo-cw-nibiru]: https://github.com/NibiruChain/cw-nibiru
