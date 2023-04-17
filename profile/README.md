@@ -18,7 +18,7 @@ Official open-source repositories for [Nibiru][site-nibiru].
 
 ---
 
-<a href="https://discord.gg/nibiru">
+<a href="https://discord.gg/HFvbn7Wtud">
   <img align="left" alt="Nibiru Discord" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/discord.svg" />
 </a>
 <a href="https://twitter.com/NibiruChain">
