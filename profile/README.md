@@ -9,13 +9,11 @@ Official open-source repositories for [Nibiru][site-nibiru].
 | Repo | Description |
 | ---  | --- |
 | [nibiru][repo-nibiru] | Code for the Nibiru blockchain, Nibi-Perps, Nibi-Swap, and NUSD. |
+| [cw-nibiru][repo-cw-nibiru] | Smart contract sandbox and Rust monorepo for Nibiru |
 | [ts-sdk][repo-ts-sdk] | A client SDK implemented in TypeScript |
 | [py-sdk][repo-py-sdk] | A client SDK implemented in Python |
-| [sdk-proto-gen][repo-sdk-proto-gen] | Generates the `nibiru_proto` Python package for the [Nibiru Python SDK][repo-py-sdk] |
 | [faucet][repo-faucet] | A faucet for Cosmos-SDK apps that uses the app binary only. |
-| [cw-nibiru][repo-cw-nibiru] | Smart contract prototyping sandbox |
 | [website-help][repo-website-help] | Need app/website help? |
-
 
 ---
 
