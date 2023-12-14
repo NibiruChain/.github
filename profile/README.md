@@ -8,7 +8,7 @@ Official open-source repositories for [Nibiru][site-nibiru].
 
 | Repo | Description |
 | ---  | --- |
-| [nibiru][repo-nibiru] | Code for the Nibiru blockchain, Nibi-Perps, Nibi-Swap, and NUSD. |
+| [nibiru][repo-nibiru] | Code for the Nibiru Chain network. |
 | [cw-nibiru][repo-cw-nibiru] | Smart contract sandbox and Rust monorepo for Nibiru |
 | [ts-sdk][repo-ts-sdk] | A client SDK implemented in TypeScript |
 | [py-sdk][repo-py-sdk] | A client SDK implemented in Python |
