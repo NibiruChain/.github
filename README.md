@@ -2,22 +2,22 @@
 
 <div align="center">
 
-The official repositories for [Nibiru][site-nibiru].
+Official open-source repositories for [Nibiru][site-nibiru].
 
 </div>
 
 | Repo | Description |
 | ---  | --- |
-| [nibiru][repo-nibiru] | Code for the Nibiru blockchain, Nibi-Perps, Nibi-Swap, and NUSD. |
+| [nibiru][repo-nibiru] | Code for the Nibiru Chain network. |
+| [nibiru-wasm][repo-nibiru-wasm] | Smart contract sandbox and Rust monorepo for Nibiru |
 | [ts-sdk][repo-ts-sdk] | A client SDK implemented in TypeScript |
 | [py-sdk][repo-py-sdk] | A client SDK implemented in Python |
-| [sdk-proto-gen][repo-sdk-proto-gen] | Generates the `nibiru_proto` Python package for the [Nibiru Python SDK][repo-py-sdk] |
 | [faucet][repo-faucet] | A faucet for Cosmos-SDK apps that uses the app binary only. |
-| [docs][repo-docs] | Source code for the documentation site: [docs.nibiru.fi](https://docs.nibiru.fi) |
+| [website-help][repo-website-help] | Need app/website help? |
 
 ---
 
-<a href="https://discord.gg/sgPw8ZYfpQ">
+<a href="https://discord.gg/HFvbn7Wtud">
   <img align="left" alt="Nibiru Discord" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/discord.svg" />
 </a>
 <a href="https://twitter.com/NibiruChain">
@@ -34,6 +34,7 @@ The official repositories for [Nibiru][site-nibiru].
 [repo-nibiru]: https://github.com/NibiruChain/nibiru
 [repo-py-sdk]: https://github.com/NibiruChain/py-sdk
 [repo-ts-sdk]: https://github.com/NibiruChain/ts-sdk
-[repo-docs]: https://github.com/NibiruChain/docs
 [repo-sdk-proto-gen]: https://github.com/NibiruChain/sdk-proto-gen
 [repo-faucet]: https://github.com/NibiruChain/faucet
+[repo-nibiru-wasm]: https://github.com/NibiruChain/nibiru-wasm
+[repo-website-help]: https://github.com/NibiruChain/website-help
