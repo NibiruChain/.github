@@ -1,4 +1,4 @@
-# Nibiru Chain
+# Nibiru
 
 <div align="center">
 
